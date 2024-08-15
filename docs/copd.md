@@ -1,11 +1,11 @@
-The Asthma Solution template is designed to empower individuals with asthma to take control of their condition through
-comprehensive disease-management tools. It offers a user-friendly way to track symptoms, medications, vital signs and
-validated ePROs for assessing disease control, while providing access to curated educational content to enhance
-understanding and management of asthma.
-This template is ideal for individuals with asthma looking to actively manage their health, as well as healthcare
-providers seeking to offer comprehensive support and remote monitoring for their patients.
+The COPD Management application template is designed to empower individuals with Chronic Obstructive Pulmonary Disease
+to manage their condition effectively. This comprehensive application provides tools for tracking daily symptoms,
+medication adherence, and vital signs, while offering access to educational resources tailored specifically to COPD. The
+template also supports seamless communication with healthcare providers through integrated telemedicine features,
+promoting proactive management, faster treatment optimisation and improving quality of life for users.
 
-### Health Vitals
+### Health vitals
+
 - Peak flow
 - Oxygen saturation
 - Temperature
@@ -16,9 +16,11 @@ providers seeking to offer comprehensive support and remote monitoring for their
 - Sleep
 
 ### ePROs
-Asthma Control Test (ACT)
 
-### Other Widgets
+- COPD Assessment Test (CAT)
+
+### Other widgets
+
 - Symptom tracker
 - Medications
 - Featured articles
@@ -27,7 +29,8 @@ Asthma Control Test (ACT)
 - Profile
 
 ### Articles
-- What is asthma
-- Measuring peak flow
-- Your personal best peak flow
-- +24 more
+
+- Decoding Spirometry, FEV1 & Peak Flow
+- Truths about smoking & vaping
+- Exercise and COPD
+- +18 more

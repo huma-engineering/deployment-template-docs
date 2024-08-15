@@ -1,34 +1,31 @@
-The Oncology Management application template is tailored to support cancer patients throughout their treatment journey
-and help them manage their side effects effectively. This application offers comprehensive tools for tracking symptoms,
-treatment schedules, and side effects, alongside access to a wide range of educational resources on cancer care. With
-telemedicine integration, the template facilitates continuous communication with oncology teams, enabling personalized
-and responsive management of the patient's treatment plan.
+The Myasthenia Gravis Management application template is crafted to support individuals living with this chronic
+autoimmune disorder by providing essential tools for tracking symptoms, medications, validated ePROs and vital signs.
+The template offers specialized educational content to help users better understand and manage their condition. With
+integrated telemedicine features, the application can also facilitate continuous communication with healthcare
+providers, ensuring timely interventions and personalized care for optimal disease management.
 
 ### Health vitals
 
-- Temperature
-- Weight & BMI
 - Steps
 - Sleep
-- Heart rate
-- Respiratory rate
-- Air quality
+- Peak flow
 
 ### ePROs
 
-- EQ-5D-5L
+- MG-ADL
 
 ### Other widgets
 
 - Symptoms
 - Medications
+- Photos
 - Welcome
-- Featured articles
+- Featured Articles
 - Reminders
 
 ### Articles
 
-- Managing Blood Counts and Blood Clots
-- Fertility and Sexual Health During Cancer Treatment
-- Preventing and Managing Infections
-- +29 more
+- How is MG diagnosed?
+- Read others experiences of living with MG
+- Risky medication
+- +23 more

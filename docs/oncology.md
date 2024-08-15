@@ -1,20 +1,26 @@
-The Hypertension Management application template is designed to help individuals monitor and manage high blood pressure
-effectively. This application provides tools for tracking blood pressure readings, medication adherence, and lifestyle
-factors such as activity levels and more.
-Additionally, it offers educational content to support heart-healthy living and integrated telemedicine features to
-maintain ongoing communication with healthcare providers, ensuring comprehensive and personalized management of
-hypertension.
+The Oncology Management application template is tailored to support cancer patients throughout their treatment journey
+and help them manage their side effects effectively. This application offers comprehensive tools for tracking symptoms,
+treatment schedules, and side effects, alongside access to a wide range of educational resources on cancer care. With
+telemedicine integration, the template facilitates continuous communication with oncology teams, enabling personalized
+and responsive management of the patient's treatment plan.
 
 ### Health vitals
 
-- Blood pressure
+- Temperature
 - Weight & BMI
-- Heart rate
 - Steps
+- Sleep
+- Heart rate
+- Respiratory rate
 - Air quality
+
+### ePROs
+
+- EQ-5D-5L
 
 ### Other widgets
 
+- Symptoms
 - Medications
 - Welcome
 - Featured articles
@@ -22,7 +28,7 @@ hypertension.
 
 ### Articles
 
-- #BPraisers: Things That Raise Your Blood Pressure
-- Limiting Alcohol
-- How to Sync your Blood Pressure Reading To The Huma App
-- +32 more
+- Managing Blood Counts and Blood Clots
+- Fertility and Sexual Health During Cancer Treatment
+- Preventing and Managing Infections
+- +29 more

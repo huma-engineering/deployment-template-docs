@@ -1,21 +1,22 @@
-The Hip Surgery Care application template is designed to assist patients undergoing hip
-replacement surgery. This application provides tools for tracking pain levels, rehabilitation
-exercises, and medication adherence. It also offers educational resources on how to prepare
-for surgery and post-operative management to assist recovery, along with telemedicine features for ongoing communication
-with healthcare providers, ensuring a smooth and
-successful preparation and recovery to optimise outcomes.
+The Knee Surgery Care application template is designed to support patients during their
+preparation and recovery from knee replacement surgery. This comprehensive application
+offers tools for monitoring pain, symptoms, activity levels and managing medications. It also
+includes educational resources to guide patients throughout their surgical pathway and
+telemedicine features to facilitate continuous communication with healthcare providers,
+promoting a successful rehabilitation journey.
 
-# Health vitals
+### Health vitals
 
 - Weight & BMI
 - Temperature
 - Steps
 
-# ePROs
+### ePROs
 
+- Knee Health – IKDC
 - Bluebelle Wound Healing Questionnaire (WHQ)
 
-# Other widgets
+### Other widgets
 
 - Symptoms
 - Medications
@@ -23,12 +24,12 @@ successful preparation and recovery to optimise outcomes.
 - Journal
 - Health coach
 - Welcome
-- Featured Articles
+- Featured articles
 - Reminders
 
-# Articles
+### Articles
 
+- Circulatory exercise
+- Knee replacement risks
 - The storyteller
-- Hip replacement risk and complications
-- Heel slides
-- +38 more
+- +41 more
