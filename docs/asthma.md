@@ -6,6 +6,7 @@ This template is ideal for individuals with asthma looking to actively manage th
 providers seeking to offer comprehensive support and remote monitoring for their patients.
 
 ### Health Vitals
+
 - Peak flow
 - Oxygen saturation
 - Temperature
@@ -16,9 +17,11 @@ providers seeking to offer comprehensive support and remote monitoring for their
 - Sleep
 
 ### ePROs
-Asthma Control Test (ACT)
+
+- Asthma Control Test (ACT)
 
 ### Other Widgets
+
 - Symptom tracker
 - Medications
 - Featured articles
@@ -27,6 +30,7 @@ Asthma Control Test (ACT)
 - Profile
 
 ### Articles
+
 - What is asthma
 - Measuring peak flow
 - Your personal best peak flow
